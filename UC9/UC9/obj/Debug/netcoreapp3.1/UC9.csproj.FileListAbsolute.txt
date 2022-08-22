@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.exe
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.deps.json
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.dll
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.dll
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.pdb
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\obj\Debug\netcoreapp3.1\UC9.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day1EmpWage\UC9\UC9\bin\Debug\netcoreapp3.1\UC9.pdb
