@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.exe
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.deps.json
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.dll
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.dll
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.pdb
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\obj\Debug\netcoreapp3.1\MESSAGE.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\EmpWage\MESSAGE\MESSAGE\bin\Debug\netcoreapp3.1\MESSAGE.pdb
